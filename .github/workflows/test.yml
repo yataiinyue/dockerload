@@ -13,3 +13,5 @@ jobs:
      - name: first
        run:
          python --version
+         ls
+         git -v
