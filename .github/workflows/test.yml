@@ -11,4 +11,4 @@ jobs:
     steps:
      - name: first
        run:
-         echo $TEST
+         python --version
